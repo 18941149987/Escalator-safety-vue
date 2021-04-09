@@ -3,8 +3,9 @@
     <div class="site-content__wrapper">
       <div class="site-content">
         <div class="brand-info">
-          <h2 class="brand-info__text">renren-fast-vue</h2>
-          <p class="brand-info__intro">renren-fast-vue基于vue、element-ui构建开发，实现renren-fast后台管理前端功能，提供一套更优的前端解决方案。</p>
+          <h2 class="brand-info__text">扶梯安全管理平台</h2>
+          <p class="brand-info__intro">扶梯安全管理平台致力于帮助人们在做好扶梯安全检查，及时更换电梯老化零件的基础上，尽可能的减少扶梯不可控突发事故，从而最大程度上保护人民群众的生命及财产安全。
+            这款产品能够尽量减少电梯“吃人”事故的发生，以及在事故发生后迅速的保护人们，不产生后续对人们的二次伤害。</p>
         </div>
         <div class="login-main">
           <h3 class="login-title">管理员登录</h3>
